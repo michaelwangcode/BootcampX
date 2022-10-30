@@ -54,7 +54,7 @@ For example:
 
 `\i 4_queries/1_total_teacher_assistance_requests.sql`
 
-You can type `\dt` to see all of the tables in the current database, `l` to see all databases and `\u` to see all users.
+You can type `\dt` to see all of the tables in the current database, `\l` to see all databases and `\u` to see all users.
 
 To exit a query, type `q`. To exit psql, type `\q`.
 
