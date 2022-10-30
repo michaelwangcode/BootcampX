@@ -7,6 +7,7 @@ This project was created to practice writing SQL queries with PostgreSQL.
 
 It is meant to similate the kind of data a programming bootcamp would need to keep track of, such as students, teachers, cohorts, assignments, assignment submissions and assistance requests.
 
+Made during Lighthouse Labs (W05D1).
 
 ## Project Setup
 
